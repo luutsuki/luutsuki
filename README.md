@@ -20,6 +20,20 @@
   
   <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/pc1.gif"/>  <img src="http://i11.photobucket.com/albums/a168/evelynregly/minigifs/lapis2.gif"/> Estou reorganizando este perfil e os repositórios! (Talvez não tenha muita coisa por aqui, por enquanto...)
 
+  
+  
+    
+
+   <a href="https://www.credly.com/badges/ccfb263e-123b-4a10-8fef-b178ab9d4807/public_url/"><img src="https://i.ibb.co/dtk84vp/aws-cloud-quest-cloud-practitioner-1.png" alt="aws-cloud-quest-cloud-practitioner-1" border="0"></a>
+   <a href="https://www.credly.com/badges/229d0efc-ea93-4815-8e32-f4820ed3e18f/public_url"><img src="https://i.ibb.co/NSb6VGR/aws-partner-cloud-economics-accreditation.png" alt="aws-partner-cloud-economics-accreditation" border="0"></a>
+   <a href="https://www.credly.com/badges/d2807130-b9f1-4c1f-b338-105fabc445c3/public_url"><img src="https://i.ibb.co/kX5sp8K/aws-partner-accreditation-technical-1.png" alt="aws-partner-accreditation-technical-1" border="0"></a>
+   <a href="https://www.credly.com/badges/c0d51505-19df-41ec-b062-629366136edd/public_url
+   "><img src="https://i.ibb.co/GQhnR1q/aws-partner-sales-accreditation-business-1.png" alt="aws-partner-sales-accreditation-business-1" border="0"></a>
+
+  
+
+  
+
 
 
 
